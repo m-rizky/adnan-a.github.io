@@ -1,0 +1,21 @@
+body::-webkit-scrollbar {
+    width: 8px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(235, 193, 9);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color:rgb(32, 32, 27);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    
+  }
+.nama{ margin-top: 1%; margin-bottom: 28.9%;}
+.new1{border:3px solid yellow; border-radius: 100px;}
+.line{width: 15%; margin-left: 47.4%; margin-bottom: 2%; margin-top: -0.8%;}
+.artikel{font-size: 20px;}
+.line2{width: 100%;  margin-top: 2%;margin-bottom: 2%;}
+.line3{width: 12%; margin-left: 47.4%; margin-bottom: 2%; margin-top: -0.8%;}
+.card{margin-bottom: 25%;}
+.project{padding-bottom: 2%;}
